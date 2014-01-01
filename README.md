@@ -1,3 +1,6 @@
+#This Fork
+I'm not sure about "forking etiquette", so please excuse me if I make a mistake. I'm trying to keep the files from the original project while also adding my own features. This fork is mostly for personal use.
+
 #CheatMod By Kristof1104	
 
 This is a mod for Game Dev Tycoon, it enables users to use cheats through an in-game menu.
