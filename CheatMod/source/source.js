@@ -207,6 +207,7 @@
 	div.append('<div id="money1M" class="selectorButton whiteButton" onclick="UI.pickCheatClick(this)" style="display:inline-block;position: relative;margin-left:0px;width: 142px;" >Add 1M</div>');
 	div.append('<div id="money10M" class="selectorButton whiteButton" onclick="UI.pickCheatClick(this)" style="display:inline-block;position: relative;margin-left:50px;width: 142px;" >Add 10M</div>');
 	div.append('<div id="money100M" class="selectorButton whiteButton" onclick="UI.pickCheatClick(this)" style="display:inline-block;position: relative;margin-left:0px;width: 142px;" >Add 100M</div>');
+	div.append('<div id="money1B" class="selectorButton whiteButton" onclick="UI.pickCheatClick(this)" style="display:inline-block;position: relative;margin-left:0px;width: 142px;" >Add 1B</div>');
 
 	// Fan cheats
 	div.append('<div id="fanslbl" style="margin-left:50px;width: 450px;" >Add Fans</div>');
@@ -220,7 +221,7 @@
 	div.append('<div id="hype50" class="selectorButton whiteButton" onclick="UI.pickCheatClick(this)" style="display:inline-block;position: relative;margin-left:0px;width: 142px;" >Add 50</div>');
 	div.append('<div id="hype100" class="selectorButton whiteButton" onclick="UI.pickCheatClick(this)" style="display:inline-block;position: relative;margin-left:0px;width: 142px;" >Add 100</div>');
 
-	// Research point cheats
+	// Other cheats
 	div.append('<div id="research" class="selectorButton whiteButton" onclick="UI.pickCheatClick(this)" style="margin-left:50px;width: 450px;">Add Research Points (100pt)</div>');
 	div.append('<div id="dreamteam" class="selectorButton whiteButton" onclick="UI.pickCheatClick(this)" style="margin-left:50px;height: 100px;width: 450px;">Fill open Team positions with 1337 Teammembers</div>');
 	div.append('<div id="proDeveloper" class="selectorButton whiteButton" onclick="UI.pickCheatClick(this)" style="margin-left:50px;width: 450px">Turn your player into a 1337 developer</div>');
@@ -260,6 +261,8 @@
 		case "money100M":
 			addMoney(100000000);
 			break;
+		case "money1B":
+			addMoney(1000000000);
 		case "research":
 			addResearchPoints();
 			break;
