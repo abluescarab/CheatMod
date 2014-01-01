@@ -1,3 +1,6 @@
+#This Fork
+I'm not sure about "forking etiquette", so please excuse me if I make a mistake. I'm trying to keep the files from the original project while also adding my own features. This fork is mostly for personal use.
+
 #CheatMod By Kristof1104	
 
 This is a mod for Game Dev Tycoon, it enables users to use cheats through an in-game menu.
@@ -61,12 +64,27 @@ version 0.2.2
 	- Random 11 out of 10 scores now possible in "Always perfect games mode".
 	- Add hype by 10 , 50 and 100
 	- Add Fans by 1M , 10M and 100M
+
 version 0.2.3
 	- Fixed bug in Add DreamTeam, (sometimes in level 4 it wouldn't add the last 2 staff members)
+
 version 0.3.0
 	- Added Feature ,Users can now add Tech levels ( For example Graphics V3 lvl 15 ..)
 	- Added Feature to allow users to add Design & Tech points to a game during game development
 
+version 0.3.1
+	- Added feature for 100K credits and 500K credits
+
+version 0.3.2
+	- Added option for 1B credits
+	- Fixed comment
+
+version 1.0.0
+	- Added Feature To Add Sequel games
+	- Added Feature To allow users to add Design & Tech points by 10 or 100
+	- Added Feature To allow players to easily add ResearchPoints by a + button.
+	- Added Boost L2 for DreamTeam
+	- Added Feature To add a B-Team: stats are at 700 instead of 1000.
 	
 How to add CheatMod to your Game Dev Tycoon:
 
