@@ -8,30 +8,30 @@ Using this mod is a safer method then changing the save game directly with an ed
 
 version 0.1.1
 Features:
-    - Add Money
-	- Add ResearchPoints
-    - Add Fans
-    - Add DreamTeam (Fills in all open team spots with pro-level Game-designers)
+* Add Money
+* Add ResearchPoints
+* Add Fans
+* Add DreamTeam (Fills in all open team spots with pro-level Game-designers)
 	
 version 0.1.2
 New Features:
-    - Goto last level of Game Dev tycoon (Hardware and RnD lab included)
+* Goto last level of Game Dev tycoon (Hardware and RnD lab included)
 
 version 0.1.3
 New Features:
-    - Add AAA research
+* Add AAA research
 	
 version 0.1.4
 New Features:
-    - Move in Time function, you can now goto any year in the game
+* Move in Time function, you can now goto any year in the game
 	
 version 0.1.5
 Bug-fix:
-    - Fixed bug in version 0.1.4 (when adding money an debug alert was displayed)
+* Fixed bug in version 0.1.4 (when adding money an debug alert was displayed)
 		
 version 0.1.6
 New Features:
-    - Money can now be added By 1M, 10M, 20M.
+* Money can now be added By 1M, 10M, 20M.
 	- Staff members don't need Vacation.
 	
 version 0.1.7
@@ -40,19 +40,19 @@ BugFix:
 	
 version 0.1.8
 New Features:
-    - Hype can now be added by 100 points.
+* Hype can now be added by 100 points.
 	- Always perfect games mode added.
 
 version 0.1.9
 New Features:
-    - Added A No Bugs Mode (No bugs during game creation)
+* Added A No Bugs Mode (No bugs during game creation)
 	- Add All Topics (Research All Topics)
 	
 version 0.2.0
 BugFixes:
 	- Fixed a problem with the No Bugs Mode
 New Features:
-    - Added Fast Research Mode (Research is almost instant)
+* Added Fast Research Mode (Research is almost instant)
 	
 version 0.2.1
 	- Female staff members added tot 1337 dreamTeam.	
